@@ -1,0 +1,20 @@
+
+.btnColor {
+    background-color: #1a0d2e; 
+    border: none;
+    padding: 10px 20px;
+    font-size: 12px;
+    transition: background-color 0.3s ease;
+}
+
+.btnColor:hover {
+    background-color: #140a23; 
+}
+
+.text-white {
+    color: #ffffff;
+}
+
+.table-bordered{
+    border: 2px;
+}
